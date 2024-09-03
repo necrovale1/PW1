@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários</title>
+</head>
+<body style="text-align:center; background-color:black; color:brown";>
+    <h3>Formulários</h3>
+    <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/source.gif" style="width:300px;">
+    <h5>Login e Senha</h5>
+        <form action="" method="post"> <!-- action envia os dados para outra página -->
+            <input type="email" placeholder="Insira seu E-mail" required style="width: 30%;""><br> <!-- coloca o negocio de pegar os dados -->
+            <input type="password" placeholder="Insira a Senha (vou te hackear)" required style="width: 30%;"><br>
+            <input type="text" placeholder="Insira seu Nome e Sobrenome (vou te comer)" required style="width: 30%;"><br>         
+            <button type="submit">Enviadados</button>
+        </form>
+        <br>
+        <h3>Form de contato</h3>
+        <form action="" method="post">
+            <input type="text" placeholder="Nome" required style="width: 30%;"><br>
+            <input type="text" placeholder="Assunto" required style="width: 30%;"><br>
+            <textarea cols="100" rows="10" placeholder="blablabla"></textarea><br> <!-- digitar um texto mais longo -->
+            <button type="submit">Eu sou bugado</button>
+        </form>
+        <h3>EU QUERO JOGAR UM JOGO!</h3>
+        <!-- formulario com opções -->
+        <img src="https://i.giphy.com/aJyBC3mhe9qO4.webp" style="width:150px;">
+        <form>
+            <input type="radio" name="tipo">Carro<br>
+            <input type="radio" name="tipo">Moto<br>
+            <input type="radio" name="tipo">Bicicleta<br>
+            <br>
+            <input type="checkbox">Etanois<br>
+            <input type="checkbox">Gasolina<br>
+            <input type="checkbox">Elétrico<br>
+            <br>
+            <h5>Qual desses lugares vc pode comprar drogras?</h5>
+            <select>
+                <option>Posto de gasolina</option>
+                <option>Padaria</option>
+                <option>Farmácia</option>
+            </select>    
+        </form>
+        <h2>Entradas diversas</h2><br>
+        <form action="" method="post">
+            Números <input type="number" max="20" min="1"><br>
+            Dia em que te trairam <input type="date" min="2024-08-10" max="2024-08-30"><br>
+            Hora <input type="time"><br>
+            Data e Hora <input type="datetime-local"><br>
+            Cor <input type="color"><br>
+            Arquivo <input type="file"><br>
+            Intervalo <input type="range" min="1" max="20" value="2" step="2"><br>
+            Telefone <input type="tel"><br><br>
+            <input type="reset" value="Limpar"><br><br>
+            <input type="submit" value="Enviardados"><br>
+        </form>
+        <br><br><br><br>
+</body>
+</html>
