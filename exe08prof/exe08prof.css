@@ -1,0 +1,55 @@
+html{
+    background-color:darkslategrey;
+    color:BurlyWood;    
+	
+}
+
+a{
+	color:BurlyWood;
+}
+
+header{
+	border:1px solid black;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+
+header img{
+	width:15%;
+	height:15%;
+}
+
+
+nav ul{
+	float:left;
+	display:flex;
+	padding:2%;
+	margin:0px;
+
+}
+
+nav ul li ul {
+	display:none;
+}
+
+nav ul{
+	list-style:none;
+	border:1px solid black;
+}
+
+ul:hover{
+	background-color:BurlyWood;
+	color:darkslategrey;
+}
+
+
+nav ul li:hover ul{
+	display: block;
+}
+
+
+
+
+
+
