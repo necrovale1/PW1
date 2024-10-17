@@ -1,0 +1,48 @@
+<meta charset="UTF-8">
+<!-- Utilizando javascript dentro do html -->
+<script>
+    //Declaração de variáveis (let nomeVariavel = valor)
+    let nome = "Thiago";
+    let idade = 43;
+    let altura = 1.75;
+ 
+    //Caixa de dialogo do tipo alerta
+    alert("Nome: "+nome+"\nIdade: "+idade+"\nAltura: "+altura);
+ 
+    //solicitar um valor para o usuário
+    let disc = prompt("Digite a disciplina atual");
+    //exibir o dado coletado do usuario
+    alert("Disciplina: "+disc);
+    //media de 2 numeros
+    //converte para inteiro parseInt
+    //converter para real parseFloat
+    //outra maneira função Number
+    let n1 = parseInt(prompt("Digite n1:"));
+    let n2 = parseInt(prompt("Digite n2:"));
+    let media = (n1+n2)/2;
+    //exibindo com 2 casas decimais
+    alert("Media: "+media.toFixed(2));
+</script>
+<!-- Depois do fechamento do body -->
+ <!-- <script src="script.js"></script> -->
+ 
+01_exercicioBase.html
+ 
+<!-- 2_exercicioSe.html -->
+<meta charset="UTF-8">
+<script>
+    //media de 2 notas exibindo a classificação: Aprovado, Aprovado com louvor, Reprovado
+    let n1 = parseFloat(prompt("N1: "));
+    let n2 = parseFloat(prompt("N2:"));
+    let media = (n1+n2)/2;
+    alert("Média: "+media.toFixed(2));
+    //estrutura condicional Se
+    if(media<5){
+        alert("Reprovado");
+    }else if(media<8){
+        alert("Aprovado");
+    }else{
+        alert("Aprovado com louvor");
+    }
+</script>
+ 
