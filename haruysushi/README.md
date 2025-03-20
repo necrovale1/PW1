@@ -20,3 +20,8 @@
 
    Cores e Estilo 🎨: O design é inspirado na cultura japonesa, utilizando cores como vermelho, preto e dourado para criar uma sensação de sofisticação e harmonia com a temática.<br>
    Fontes e Layout 📝: Utilização de fontes elegantes e um layout limpo, que facilita a leitura do cardápio e proporciona uma navegação fluida.<br>
+
+   ## 👩‍🏫 **Equipe de Professores**
+
+- **Prof. Thiago Rariz**
+- **Prof. Murilo da Silva**
