@@ -1,4 +1,4 @@
-🍣 Haruy Sushi - Cardápio Online
+# 🍣 Haruy Sushi - Cardápio Online
 
 📌 Instruções
 
