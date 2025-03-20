@@ -1,27 +1,19 @@
+
 📂 Programação Web 1 (PW1)
 
-Este repositório contém os arquivos e projetos desenvolvidos ao longo da matéria Programação Web 1 (PW1). O objetivo da matéria é fornecer uma introdução ao desenvolvimento web, abordando o uso de HTML, CSS, JavaScript e outras tecnologias fundamentais para a criação de websites e aplicações web interativas.
-📚 Conteúdo do Repositório
+📌 Instruções
+  Este repositório contém os arquivos e projetos desenvolvidos ao longo da matéria Programação Web 1 (PW1), da disciplina de Desenvolvimento Web. O foco da matéria é o            desenvolvimento de websites interativos utilizando HTML, CSS e JavaScript.
+  
+🧑‍💻 Funcionalidades Principais
 
-Este repositório inclui os seguintes arquivos e pastas:
+   Página Inicial em HTML: A estrutura básica de uma página web com HTML5, utilizando tags semânticas e boas práticas.<br>
+   Estilos com CSS: Estilização da página utilizando CSS3, incluindo layouts responsivos e técnicas de design modernas como Flexbox e Grid.<br>
+   Interatividade com JavaScript: Implementação de funcionalidades dinâmicas, como validação de formulários e manipulação do DOM.<br>
 
-index.html: Arquivo principal da aplicação web, contendo a estrutura básica de um site em HTML.
-style.css: Arquivo de folhas de estilo (CSS), utilizado para dar estilo à página web.
-script.js: Arquivo de JavaScript, contendo a lógica para interatividade e dinamismo da página.
-imagens/: Pasta contendo imagens utilizadas no projeto (ex: logotipo, ícones, etc.).
-fonts/: Pasta contendo fontes personalizadas ou importadas para o projeto.
-docs/: Documentação adicional sobre os conceitos e ferramentas utilizadas durante o desenvolvimento.
+🌟 Extras
 
-⚙️ Tecnologias Utilizadas
+   Design Responsivo: A página é totalmente responsiva, adaptando-se bem a diferentes dispositivos, incluindo desktops, tablets e smartphones.<br>
+   Efeitos de Transição e Animações: O site inclui animações e transições suaves usando CSS para melhorar a experiência do usuário.<br>
+   Funcionalidades Adicionais com JavaScript: Inclusão de interações, como menus interativos, validação de formulários e elementos dinâmicos.<br>
 
-Este projeto utiliza as seguintes tecnologias:
-
-HTML5 🧑‍💻: Estruturação da página web com tags semânticas e modernos padrões.
-CSS3 🎨: Estilização e layout responsivo da página, utilizando propriedades como Flexbox, Grid, animações e transições.
-JavaScript 💻: Interatividade no site, como validação de formulários, manipulação do DOM e eventos.
-
-Ferramentas de Desenvolvimento 🛠️
-
-Visual Studio Code 💡: Editor de código utilizado para desenvolvimento.
-Git & GitHub 🌍: Controle de versão e hospedagem do repositório.
-Google Chrome 🌐: Navegador utilizado para testes e visualização do projeto.
+✍️ Feito por Carolina Rodrigues de Mattos, conhecida como Necrovale1.
