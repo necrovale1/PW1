@@ -16,3 +16,8 @@ Este repositório contém os arquivos e projetos desenvolvidos ao longo da maté
   * Funcionalidades Adicionais com JavaScript: Inclusão de interações, como menus interativos, validação de formulários e elementos dinâmicos.<br>
 
 ✍️ Feito por Carolina Rodrigues de Mattos, conhecida como Necrovale1.
+
+## 👩‍🏫 **Equipe de Professores**
+
+- **Prof. Thiago Rariz**
+- **Prof. Murilo da Silva**
